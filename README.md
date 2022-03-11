@@ -6,4 +6,4 @@ Replication of a dribble inspiration with Jetpack Compose with Canvas
 
 | SwiftUI | Dribble | 
 | ------------- | ------------- |
-| ![SwiftUI]( "SwiftUI")  | ![Dribble]( "Dribble") |
+| ![SwiftUI](https://github.com/norrisboat/DayAndNight-SwiftUI/blob/main/Media/SwiftUI%20DayAndNight.mov "SwiftUI")  | ![Dribble](https://github.com/norrisboat/DayAndNight-SwiftUI/blob/main/Media/DribbleInspiration.gif "Dribble") |
