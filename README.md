@@ -2,6 +2,8 @@
 
 Replication of a dribble inspiration with Jetpack Compose with Canvas
 
+Checkout Jetpack Compose version [here](https://github.com/norrisboat/DayAndNight-Compose)
+
 ### Inspiration vs SwiftUI
 
 | SwiftUI | Dribble | 
